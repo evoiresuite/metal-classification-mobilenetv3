@@ -1,0 +1,8 @@
+{
+  "classes": [
+    "Bukan Metal",
+    "Metal"
+  ],
+  "threshold": 0.5,
+  "output": "probabilitas Metal"
+}
